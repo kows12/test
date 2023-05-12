@@ -4,6 +4,7 @@ def calc():
     num1 = float(input("Enter the first number: "))
     num2=int("enter the calculation details")
      print("enter the valid name")
+     num3=float(int("enter the calculation operation")
 
 
     # Get user input for the second number
