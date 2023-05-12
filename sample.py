@@ -2,7 +2,6 @@
 def calc():
     # Get user input for the first number
     num1 = float(input("Enter the first number: "))
-    num1=int(int("enter the lastname: "))
 
     # Get user input for the second number
     num2 = float(input("Enter the second number: "))
