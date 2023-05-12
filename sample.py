@@ -1,5 +1,5 @@
 # Define the function for the calculator
-def calculator():
+def calc():
     # Get user input for the first number
     num1 = float(input("Enter the first number: "))
 
@@ -25,4 +25,4 @@ def calculator():
     print("The result is: ", result)
 
 # Call the calculator function
-calculator()
+calc()
