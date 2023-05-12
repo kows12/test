@@ -2,10 +2,8 @@
 def calc():
     # Get user input for the first number
     num1 = float(input("Enter the first number: "))
-
-   
-
-    print("enter the valid name")
+    num2=int("enter the calculation details")
+     print("enter the valid name")
 
 
     # Get user input for the second number
