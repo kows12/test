@@ -2,7 +2,7 @@
 def calc():
     # Get user input for the first number
     num1 = float(input("Enter the first number: "))
-    print("enter the valid name")
+    num1 = float(int("enter the last name: "))
 
     # Get user input for the second number
     num2 = float(input("Enter the second number: "))
@@ -25,6 +25,9 @@ def calc():
 
     # Print the result
     print("The result is: ", result)
+    print("the result of calc")
+    
+ 
 
 # Call the calculator function
 calc()
