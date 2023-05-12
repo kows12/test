@@ -6,6 +6,7 @@ def calc():
 
     # Get user input for the second number
     num2 = float(input("Enter the second number: "))
+    print("the result is succesfully entered")
 
     # Get user input for the operation
     operation = input("Enter the operation (+, -, *, /): ")
