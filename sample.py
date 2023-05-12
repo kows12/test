@@ -24,6 +24,7 @@ def calc():
     # Print the result
     print("The result is: ", result)
     print("cal")
+    print("operation")
 
 # Call the calculator function
 calc()
