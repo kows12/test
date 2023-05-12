@@ -23,6 +23,7 @@ def calc():
 
     # Print the result
     print("The result is: ", result)
+    print("cal")
 
 # Call the calculator function
 calc()
